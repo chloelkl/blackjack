@@ -163,8 +163,6 @@ def play():
 
         elif actionchoice == "s":
           
-
-
           def countingsum():
             global dealercardarr
             global currentcards
@@ -217,8 +215,6 @@ def play():
               time.sleep(1)
 
               countingsum()
-
-            
 
             else:
               usersum = 0
